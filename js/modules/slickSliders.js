@@ -1,3 +1,4 @@
+import '../../libs/slick slider/slick.min.js';
 $(function () {
 	// FIND THE PARENT OF SLIDES
 	$('.team-slider').slick({

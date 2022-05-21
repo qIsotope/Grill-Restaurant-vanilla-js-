@@ -1,3 +1,4 @@
+import '../../libs/inputmask/inputmask.js'
 /** 
  **   CREATE INPUT MASK ON PHONE INPUTS START
 **/

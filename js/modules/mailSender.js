@@ -151,7 +151,6 @@ reservationButton.addEventListener('click', async (e) => {
 */
 const successOrder = reservationForm.querySelector('.success-order')
 async function resetReservation() {
-	console.log('reset')
 	// RESET RESERVATION FORM
 	reservationForm.reset();
 	// HIDE THE LOADER

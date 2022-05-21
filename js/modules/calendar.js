@@ -1,3 +1,4 @@
+import '../../libs/flatrick/flatrick.js'
 /** 
 ** CREATE CALENDAR WITH FLATPICKR LIBRARY START
 */

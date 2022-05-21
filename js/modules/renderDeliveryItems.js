@@ -5,7 +5,7 @@ const arrayOfItems = [
 	// ITEMS STEAK CATEGORY
 	{
 		category: 'steak',
-		URL: './images/delivery/steak/steak1.webp',
+		URL: './images/delivery/steak/steak1.jpg',
 		name: 'Steaks with goulash sauce',
 		price: '$15.50',
 		cooking: 'Enjoy fillet steak with sauce for a healthy dinner that also boasts sweet potato fries, spinach and cherry tomatoes.',
@@ -14,7 +14,7 @@ const arrayOfItems = [
 
 	{
 		category: 'steak',
-		URL: './images/delivery/steak/steak2.webp',
+		URL: './images/delivery/steak/steak2.jpg',
 		name: 'Steak haché with pommes frites',
 		price: '$17.50',
 		cooking: 'A classic French recipe of bun-less burger & chips, that can be found in every brasserie and bistro.',
@@ -22,15 +22,15 @@ const arrayOfItems = [
 	},
 	{
 		category: 'steak',
-		URL: './images/delivery/steak/steak3.webp',
-		name: 'Steak Diane',	
+		URL: './images/delivery/steak/steak3.jpeg',
+		name: 'Steak Diane',
 		price: '$22.50',
 		cooking: 'Treat someone to a classic steak diane for supper and impress with your flambé skills. For the ultimate luxury, we’ve gone for fillet steak',
 		ingridients: '2 fillet steaks,cut from the centre of the fillet 25g butter 1 thyme sprig 1 large or 2 small shallots, peeled and finely chopped',
 	},
 	{
 		category: 'steak',
-		URL: './images/delivery/steak/steak4.webp',
+		URL: './images/delivery/steak/steak4.jpg',
 		name: 'Simple sirloin steak',
 		price: '$24.50',
 		cooking: 'Master the art of cooking the perfect sirloin steak for truly tender meat and you\'ll never look back. Serve with chunky chips and salad for a weekend treat',
@@ -38,7 +38,7 @@ const arrayOfItems = [
 	},
 	{
 		category: 'steak',
-		URL: './images/delivery/steak/steak5.webp',
+		URL: './images/delivery/steak/steak5.jpg',
 		name: 'Pastrami-style steak & mustard mayo',
 		price: '$20.00',
 		cooking: 'Pair sauerkraut and mustard mayo with steak to make a sensational combination.',
@@ -46,7 +46,7 @@ const arrayOfItems = [
 	},
 	{
 		category: 'steak',
-		URL: './images/delivery/steak/steak6.webp',
+		URL: './images/delivery/steak/steak6.jpg',
 		name: 'Bavette with chimichurri sauce',
 		price: '$16.50',
 		cooking: 'Steak with chimichurri sauce is a classic combination, but pickled jalapeños give it a modern twist.',
@@ -54,7 +54,7 @@ const arrayOfItems = [
 	},
 	{
 		category: 'steak',
-		URL: './images/delivery/steak/steak7.webp',
+		URL: './images/delivery/steak/steak7.jpg',
 		name: 'Rump steak',
 		price: '$18.50',
 		cooking: 'Try our perfect method for cooking a simple rump steak with these easy, foolproof steps.',
@@ -62,7 +62,7 @@ const arrayOfItems = [
 	},
 	{
 		category: 'steak',
-		URL: './images/delivery/steak/steak8.webp',
+		URL: './images/delivery/steak/steak8.jpg',
 		name: 'Steak with mushroom puff tartlets',
 		price: '$23.50',
 		cooking: 'These are sort of deconstructed Beef Wellingtons, but the result is much lighter and crisper',
@@ -73,7 +73,7 @@ const arrayOfItems = [
 	// ITEMS RIBS CATEGORY
 	{
 		category: 'ribs',
-		URL: './images/delivery/ribs/ribs1.webp',
+		URL: './images/delivery/ribs/ribs1.jpg',
 		name: 'Stickiest ever BBQ ribs with chive dip',
 		price: '$25.50',
 		cooking: 'Slow cook these American-style pork ribs so they\'re really tender then coat in an irresistibly sweet 6 spring onions, sliced',
@@ -81,7 +81,7 @@ const arrayOfItems = [
 	},
 	{
 		category: 'ribs',
-		URL: './images/delivery/ribs/ribs2.webp',
+		URL: './images/delivery/ribs/ribs2.jpg',
 		name: 'Slow cooker ribs',
 		price: '$30.00',
 		cooking: 'Slow cooking is the perfect way to get tender melt-in-the-mouth pork ribs, simply throw everything in the slow cooker then finish off in the oven or bbq',
@@ -89,7 +89,7 @@ const arrayOfItems = [
 	},
 	{
 		category: 'ribs',
-		URL: './images/delivery/ribs/ribs3.webp',
+		URL: './images/delivery/ribs/ribs3.jpg',
 		name: 'Mexican-style chilli ribs',
 		price: '$17.00',
 		cooking: 'Serve these sticky chipotle pork ribs come rain or shine- they can be finished by grill or barbecue.',
@@ -97,7 +97,7 @@ const arrayOfItems = [
 	},
 	{
 		category: 'ribs',
-		URL: './images/delivery/ribs/ribs4.webp',
+		URL: './images/delivery/ribs/ribs4.jpg',
 		name: 'Porcini-rubbed rib of beef',
 		price: '$28.00',
 		cooking: 'This rib of beef is a real showstopper and packed with umami flavour, but it\'s so easy to make too.',
@@ -105,7 +105,7 @@ const arrayOfItems = [
 	},
 	{
 		category: 'ribs',
-		URL: './images/delivery/ribs/ribs5.webp',
+		URL: './images/delivery/ribs/ribs5.jpg',
 		name: 'Sizzling spare ribs with BBQ sauce',
 		price: '$27.50',
 		cooking: 'Some like it hot, so sizzle your ribs with BBQ sauce.',
@@ -113,7 +113,7 @@ const arrayOfItems = [
 	},
 	{
 		category: 'ribs',
-		URL: './images/delivery/ribs/ribs6.webp',
+		URL: './images/delivery/ribs/ribs6.jpg',
 		name: 'Chinese pork ribs',
 		price: '$23.50',
 		cooking: 'Sticky, tender beef ribs with a subtle oak-smoked flavour are sure to be a hit at your next barbecue.',
@@ -124,7 +124,7 @@ const arrayOfItems = [
 	// ITEMS SAUSAGE CATEGORY
 	{
 		category: 'sausage',
-		URL: './images/delivery/sausage/sausage1.webp',
+		URL: './images/delivery/sausage/sausage1.jpg',
 		name: 'Easy sausage casserole',
 		price: '$22.50',
 		cooking: 'A comforting and hearty one-pot sausage casserole recipe with spicy chorizo, smoked paprika and plenty of vegetables, perfect for a filling family meal.',
@@ -132,7 +132,7 @@ const arrayOfItems = [
 	},
 	{
 		category: 'sausage',
-		URL: './images/delivery/sausage/sausage2.webp',
+		URL: './images/delivery/sausage/sausage2.jpg',
 		name: 'Toad-in-the-hole',
 		price: '$21.00',
 		cooking: 'Serve this comforting classic made with chipolata sausages and a simple batter – it`s easy enough that kids can help make it.',
@@ -140,7 +140,7 @@ const arrayOfItems = [
 	},
 	{
 		category: 'sausage',
-		URL: './images/delivery/sausage/sausage3.webp',
+		URL: './images/delivery/sausage/sausage3.jpg',
 		name: 'Chunky sausage & tomato pasta',
 		price: '$15.50',
 		cooking: 'Jazz up sausages with this spicy tomato pasta.',
@@ -148,7 +148,7 @@ const arrayOfItems = [
 	},
 	{
 		category: 'sausage',
-		URL: './images/delivery/sausage/sausage4.webp',
+		URL: './images/delivery/sausage/sausage4.jpg',
 		name: 'Sausages with oregano, mushrooms & olives',
 		price: '$11.00',
 		cooking: 'Mash is a must for a winning sausage dish, give it a boost with this easy one-pot stew.',
@@ -156,7 +156,7 @@ const arrayOfItems = [
 	},
 	{
 		category: 'sausage',
-		URL: './images/delivery/sausage/sausage5.webp',
+		URL: './images/delivery/sausage/sausage5.jpg',
 		name: 'Sausage casserole with garlic toasts',
 		price: '$31.00',
 		cooking: 'Smarten up sausages and sneak in a few vital veggies too with this comforting midweek meal.',
@@ -164,7 +164,7 @@ const arrayOfItems = [
 	},
 	{
 		category: 'sausage',
-		URL: './images/delivery/sausage/sausage6.webp',
+		URL: './images/delivery/sausage/sausage6.jpg',
 		name: 'Sausage & lentil one-pot',
 		price: '$32.00',
 		cooking: 'Pack of sausages in the fridge? Try them in this rich stew - it\'s made in just one pot, so you\'ll save on washing up.',
@@ -175,7 +175,7 @@ const arrayOfItems = [
 	// ITEMS CHICKEN CATEGORY
 	{
 		category: 'chicken',
-		URL: './images/delivery/chicken/chicken1.webp',
+		URL: './images/delivery/chicken/chicken1.jpg',
 		name: 'Classic roast chicken & gravy',
 		price: '$33.50',
 		cooking: 'What more can we say? A classic roast chicken recipe should be in everyone\'s repertoire, and it can always save the day.',
@@ -183,7 +183,7 @@ const arrayOfItems = [
 	},
 	{
 		category: 'chicken',
-		URL: './images/delivery/chicken/chicken2.webp',
+		URL: './images/delivery/chicken/chicken2.jpg',
 		name: 'Easy chicken curry',
 		price: '$21.00',
 		cooking: 'This easy staple chicken curry is a fantastic recipe for family dinners. It\'s made with just a handful of ingredients and is enriched with creamy yogurt.',
@@ -191,7 +191,7 @@ const arrayOfItems = [
 	},
 	{
 		category: 'chicken',
-		URL: './images/delivery/chicken/chicken3.webp',
+		URL: './images/delivery/chicken/chicken3.jpg',
 		name: 'Chicken and mushrooms',
 		price: '$33.00',
 		cooking: 'A healthy and low calorie chicken casserole with bacon, button mushrooms, peas and a parsley sauce - use chicken thighs for extra flavour and juiciness.',
@@ -199,7 +199,7 @@ const arrayOfItems = [
 	},
 	{
 		category: 'chicken',
-		URL: './images/delivery/chicken/chicken4.webp',
+		URL: './images/delivery/chicken/chicken4.jpg',
 		name: 'Nutty chicken satay strips',
 		price: '$24.50',
 		cooking: 'Keep these nutty chicken satay strips in the fridge for a healthy choice when you\'re peckish. The chicken is served with cucumber and sweet chilli sauce.',
@@ -207,7 +207,7 @@ const arrayOfItems = [
 	},
 	{
 		category: 'chicken',
-		URL: './images/delivery/chicken/chicken5.webp',
+		URL: './images/delivery/chicken/chicken5.jpg',
 		name: 'Chicken tikka masala',
 		price: '$22.50',
 		cooking: 'This takeaway favourite is freezer-friendly and quick to reheat, giving you the chance to get ahead and save money.',
@@ -215,7 +215,7 @@ const arrayOfItems = [
 	},
 	{
 		category: 'chicken',
-		URL: './images/delivery/chicken/chicken6.webp',
+		URL: './images/delivery/chicken/chicken6.jpg',
 		name: 'Foolproof slow roast chicken',
 		price: '$23.00',
 		cooking: 'Slow-roasting is a great way to keep chicken nice and moist. Adding the potatoes to the roasting tin infuses them with plenty of flavour, too.',
@@ -223,7 +223,7 @@ const arrayOfItems = [
 	},
 	{
 		category: 'chicken',
-		URL: './images/delivery/chicken/chicken7.webp',
+		URL: './images/delivery/chicken/chicken7.jpg',
 		name: 'Chicken madras',
 		price: '$17.50',
 		cooking: 'Ditch the takeaway menu and cook our healthy chicken madras curry instead. This simple family dinner is full of fragrant spices and tender pieces of chicken.',
@@ -231,7 +231,7 @@ const arrayOfItems = [
 	},
 	{
 		category: 'chicken',
-		URL: './images/delivery/chicken/chicken8.webp',
+		URL: './images/delivery/chicken/chicken8.jpg',
 		name: 'Home-style chicken curry',
 		price: '$25.50',
 		cooking: 'A rustic and authentic quick Indian one-pot packed with tonnes of hot Asian spices and fragrant coriander.',
@@ -242,7 +242,7 @@ const arrayOfItems = [
 	// ITEMS DESSERTS CATEGORY
 	{
 		category: 'desserts',
-		URL: './images/delivery/desserts/desserts1.webp',
+		URL: './images/delivery/desserts/desserts1.jpg',
 		name: 'New York cheesecake',
 		price: '$17.50',
 		cooking: 'This authentic creamy dessert will add a taste of New York to any dining table. Our American-style baked cheesecake recipe makes an easy family dessert.',
@@ -250,7 +250,7 @@ const arrayOfItems = [
 	},
 	{
 		category: 'desserts',
-		URL: './images/delivery/desserts/desserts2.webp',
+		URL: './images/delivery/desserts/desserts2.jpg',
 		name: 'Lemon cheesecake',
 		price: '$15.00',
 		cooking: 'Need a simple, zingy dessert you can make with minimal fuss? Try this creamy lemon cheesecake, made with just a few basic storecupboard ingredients.',
@@ -258,7 +258,7 @@ const arrayOfItems = [
 	},
 	{
 		category: 'desserts',
-		URL: './images/delivery/desserts/desserts3.webp',
+		URL: './images/delivery/desserts/desserts3.jpg',
 		name: 'Chocolate cheesecake',
 		price: '$16.50',
 		cooking: 'Treat family and friends to this decadent chocolate dessert. It\'s an indulgent end to a dinner party or weekend family meal',
@@ -266,7 +266,7 @@ const arrayOfItems = [
 	},
 	{
 		category: 'desserts',
-		URL: './images/delivery/desserts/desserts4.webp',
+		URL: './images/delivery/desserts/desserts4.jpg',
 		name: 'Chocolate molten cakes',
 		price: '$14.00',
 		cooking: 'Bake an impressive dinner party dessert with minimum fuss – these chocolate puddings, also known as chocolate fondant or lava cake, have a lovely gooey centre',
@@ -274,7 +274,7 @@ const arrayOfItems = [
 	},
 	{
 		category: 'desserts',
-		URL: './images/delivery/desserts/desserts5.webp',
+		URL: './images/delivery/desserts/desserts5.jpg',
 		name: 'Lemon & elderflower celebration cake',
 		price: '$24.00',
 		cooking: 'Decorate this simple elderflower and lemon cake with edible flowers for a showstopping celebration dessert. It\'s perfect for a wedding or birthday',
@@ -282,7 +282,7 @@ const arrayOfItems = [
 	},
 	{
 		category: 'desserts',
-		URL: './images/delivery/desserts/desserts6.webp',
+		URL: './images/delivery/desserts/desserts6.jpg',
 		name: 'Chocolate fondant',
 		price: '$27.50',
 		cooking: 'A gooey prepare-ahead dessert that\'s perfect for entertaining - it\'s all a matter of timing.',
@@ -290,7 +290,7 @@ const arrayOfItems = [
 	},
 	{
 		category: 'desserts',
-		URL: './images/delivery/desserts/desserts7.webp',
+		URL: './images/delivery/desserts/desserts7.jpg',
 		name: 'Christmas sticky toffee pudding',
 		price: '$30.00',
 		cooking: 'Switch up your traditional Christmas pudding with this sticky toffee version. It\'s a great modern twist on the classic festive dessert.',
@@ -298,7 +298,7 @@ const arrayOfItems = [
 	},
 	{
 		category: 'desserts',
-		URL: './images/delivery/desserts/desserts8.webp',
+		URL: './images/delivery/desserts/desserts8.jpg',
 		name: 'Blueberry cake with cream cheese frosting',
 		price: '$17.50',
 		cooking: 'Enjoy this fruity soured cream cake with a cup of tea or serve as an impressive dessert. The blueberries will burst in your mouth as you bite into your slice.',
@@ -309,7 +309,7 @@ const arrayOfItems = [
 	// ITEMS DRINKS CATEGORY
 	{
 		category: 'drinks',
-		URL: './images/delivery/drinks/drinks1.webp',
+		URL: './images/delivery/drinks/drinks1.jpg',
 		name: 'Rhubarb gin',
 		price: '$13.50',
 		cooking: 'Use seasonal rhubarb to make this G&T-with-a-difference, or top the finished gin with soda water for a refreshing and gloriously pink summertime drink.',
@@ -317,7 +317,7 @@ const arrayOfItems = [
 	},
 	{
 		category: 'drinks',
-		URL: './images/delivery/drinks/drinks2.webp',
+		URL: './images/delivery/drinks/drinks2.jpg',
 		name: 'Mango & banana smoothie',
 		price: '$12.50',
 		cooking: 'Cool down this summer with a fresh and fruity smoothie',
@@ -325,7 +325,7 @@ const arrayOfItems = [
 	},
 	{
 		category: 'drinks',
-		URL: './images/delivery/drinks/drinks3.webp',
+		URL: './images/delivery/drinks/drinks3.jpg',
 		name: 'Mulled wine cocktail',
 		price: '$10.00',
 		cooking: 'The perfect party drink, as it can be made well ahead, then brought out of the fridge as guests arrive – or serve it hot for a traditional winter warmer.',
@@ -333,7 +333,7 @@ const arrayOfItems = [
 	},
 	{
 		category: 'drinks',
-		URL: './images/delivery/drinks/drinks4.webp',
+		URL: './images/delivery/drinks/drinks4.jpg',
 		name: 'Peanut butter smoothie',
 		price: '$13.00',
 		cooking: 'Whizz up a quick and filling peanut butter smoothie, with rolled oats and banana. Brilliant for breakfast, you can freeze the banana for extra thickness.',
@@ -341,7 +341,7 @@ const arrayOfItems = [
 	},
 	{
 		category: 'drinks',
-		URL: './images/delivery/drinks/drinks5.webp',
+		URL: './images/delivery/drinks/drinks5.jpg',
 		name: 'Ginger lemon fizz',
 		price: '$14.50',
 		cooking: 'A refreshing alternative to shop-bought soft drinks, perfect for the summer.',
@@ -349,7 +349,7 @@ const arrayOfItems = [
 	},
 	{
 		category: 'drinks',
-		URL: './images/delivery/drinks/drinks6.webp',
+		URL: './images/delivery/drinks/drinks6.jpg',
 		name: 'Pink lemonade',
 		price: '$16.00',
 		cooking: 'Adding raspberries to homemade lemonade gives it a tangy flavour and turns it a vivid pink.',
@@ -357,7 +357,7 @@ const arrayOfItems = [
 	},
 	{
 		category: 'drinks',
-		URL: './images/delivery/drinks/drinks7.webp',
+		URL: './images/delivery/drinks/drinks7.jpg',
 		name: 'Eggnog',
 		price: '$11.50',
 		cooking: 'Make our easy eggnog recipe for the perfect festive party tipple. This traditional Christmas drink.',
@@ -365,7 +365,7 @@ const arrayOfItems = [
 	},
 	{
 		category: 'drinks',
-		URL: './images/delivery/drinks/drinks8.webp',
+		URL: './images/delivery/drinks/drinks8.jpg',
 		name: 'Blackcurrant cordial',
 		price: '$15.00',
 		cooking: 'Is a great way to use up a pick-your-own glut of blackcurrants and makes a refreshing summer drink.',

@@ -39,7 +39,6 @@ export const validate = async (form, send, mailer, body, succes) => {
 		showInputError(emailInput, false, email)
 		// AND HIDE IF WE CHANGE INPUTS
 		hideInputError(emailInput)
-
 	}
 	// IF WE PASSED ALL CHECKS WE SEND OUR FETCH REQUEST AND USE SUCCESFUL FUNCTION
 	else {

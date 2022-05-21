@@ -31,14 +31,12 @@ const navMenu = document.querySelector('.navigation-list')
 // FUNCTION WHICH MAKE SMOOTH NAVIGATION ON THE PAGE
 headerBot.addEventListener('click', (e) => {
 	e.stopPropagation();
-	console.log(e.target.classList.contains('logo-title'))
 	// DISABLE UPDATING THE PAGE
 	e.preventDefault()
 	// CHECK IF TARGET ON WHAT WE CLICK HAVE CLASSLISTS 
 	if ((e.target.classList.contains('logo-title') || e.target.classList.contains('navigation-link')
 		|| e.target.classList.contains('logo-description') || e.target.classList.contains('header-logo')) && e.target.hasAttribute('anchor')) {
 		// IF TRUE ADD A ANIMATION SCROLL
-		console.log('s')
 		window.scrollTo({
 			left: 0,
 			top: document.querySelector(`.${e.target.getAttribute('anchor')}`).offsetTop,
