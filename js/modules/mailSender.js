@@ -45,19 +45,17 @@ sendForm.addEventListener('click', async (e) => {
 	}
 	// PUSH TO ARRAY
 	arrPriceForOrder.push(pricefororderOBJ)
-
 	// CREATE DATA STORAGE WITH INFO FROM FORM INPUTS
 	let formData = new FormData(modalForm)
 	// PUSH TO DATA STORAGE OUR ARRAY WITH INFO ABOUT ITEM
 	formData.append('Products', JSON.stringify(arrItemInfo));
 	// PUSH TO DATA STORAGE OUR ARRAY WITH INFO ABOUT PRICE FOR THE ORDER
 	formData.append('SummaryPrice', JSON.stringify(arrPriceForOrder))
-
 	// USE FUNCTION WHICH VALIDATE ALL INPUTS IN FORM AND IF VALUES CORRECT SEND FETCH POST REQUEST AND AFTER SHOW THANKSFUL MODAL
-	validate(modalForm, fetchPostRequest, 'modalMail.php', formData, succesOrder)
+	await validate(modalForm, fetchPostRequest, 'modalMail.php', formData, succesOrder)
 	// await fetchPostRequest('modalMail.php', formData)
-
 	// RESET FORM, MODALS AFTER SENDING AND HIDE LOADER
+	// await succesOrder()
 	await resetModal()
 })
 
@@ -90,7 +88,7 @@ const fetchPostRequest = async (url, data) => {
 async function resetModal() {
 	modalForm.reset();
 	loader.style.display = 'none'
-
+	console.log('reset')
 }
 /**
 ** 						FUNCTION THAT RESET MODAL FORM 

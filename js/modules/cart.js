@@ -33,7 +33,7 @@ let getCartItem = (URL, name, price) => {
 				<span class="item__remove-icon">
 					<i class="far fa-trash-alt"></i>
 				</span>
-				<span class="item__remove-text">Udalit</span>
+				<span class="item__remove-text">Delete</span>
 			</div>
 		</div>
 	</div>

@@ -6,7 +6,7 @@ import '../../libs/flatrick/flatrick.js'
 const reservationForm = document.querySelector('.reservation-form')
 // INPUT WHAT SAVES THE DATE VALUE
 let dateInput = reservationForm.querySelector('.reservation-date')
-const calendar = flatpickr("#hekk", {
+const calendar = flatpickr("#custom-calendar", {
 	// CREATE A INLINE CALENDAR
 	inline: true,
 	// DISABLE DATES BEFORE TODAY
